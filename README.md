@@ -23,7 +23,7 @@ Varuna AI is a secure, offline-capable **Retrieval-Augmented Generation (RAG)** 
 
 ### 🧠 RAG Pipeline
 
-![RAG Pipeline](./assets/RAG_Architecture.PNG)
+![RAG Pipeline](./assets/RAG_architecture.PNG)
 
 1. **Docs** parsed and chunked  
 2. **Embeddings** generated and stored in FAISS  
