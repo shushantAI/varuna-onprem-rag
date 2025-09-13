@@ -1,0 +1,9 @@
+python3 get-pip.py --no-index --find-links ./pip_packages
+
+nano ~/.bashrc
+export PATH="/home/caio/.local/bin:$PATH"
+source ~/.bashrc
+echo $PATH
+
+
+pip install --no-index --find-links /path/to/packages/ -r requirements.txt

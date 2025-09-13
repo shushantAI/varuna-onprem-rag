@@ -1,0 +1,3 @@
+npm install react-router-dom lucide-react
+npm install react-markdown
+npm start

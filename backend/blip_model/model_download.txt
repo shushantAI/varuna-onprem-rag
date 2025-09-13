@@ -1,0 +1,2 @@
+Download : blip model 
+https://github.com/salesforce/BLIP.git
